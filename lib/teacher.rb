@@ -6,7 +6,7 @@ array = KNOWLEDGE
 
 
   def teach
-    array.samplep
+    array.sample
   end
   
   
