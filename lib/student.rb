@@ -8,7 +8,7 @@ def learn(string)
   @knowledge << string
 end
 
-def self.all
+def knowledge
   @knowledge
 end
 
